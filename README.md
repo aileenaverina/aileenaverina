@@ -5,7 +5,7 @@
 
 <div align="left" style="height: auto;">
     <h1>📝Skills</h1>
-    <table>
+    <table width="100%">
         <tr>
             <th align="left">Description</th>
             <th align="right">List - Level</th>
