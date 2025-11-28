@@ -3,9 +3,9 @@
 
 ###
 
-<div align="left">
+<div align="left" style="height: auto;">
     <h1>📝Skills</h1>
-    <table  align="center" style="margin-inline-start: 0; margin-inline-end: 0; table-layout:auto; margin:0 !important;">
+    <table  align="center" style="margin-inline-start: 0; margin-inline-end: 0; table-layout:auto; margin: 0; width: 700px;">
         <tr>
             <th align="center">Description</th>
             <th align="center">List - Level</th>
