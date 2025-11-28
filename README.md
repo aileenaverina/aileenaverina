@@ -3,19 +3,16 @@
 
 ###
 
-<div align="left" style="height: auto;">
+<div>
     <h1>📝Skills</h1>
-    <table width="100%">
-        <thead>
+    <table>
         <tr>
             <th align="left">Description</th>
             <th align="right">List - Level</th>
         </tr>
-        </thead>
-        <tbody>
         <tr>
-            <td>Web Development</td>
-            <td >
+            <td align="left">Web Development</td>
+            <td align="right">
                 <a href="https://www.w3schools.com/html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo"/></a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS Logo"/></a>
                 <a href="https://www.w3schools.com/js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo"/></a> 
@@ -29,52 +26,50 @@
             </td>
         </tr>
         <tr>
-            <td>Database</td>
-            <td>
+            <td align="left">Database</td>
+            <td align="right">
                 <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="30"/></a>
                 <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="30"/></a>
                 <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30"/></a>
             </td>
         </tr>
         <tr>
-            <td>Desktop Application</td>
-            <td>
+            <td align="left">Desktop Application</td>
+            <td align="right">
                 <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="30"/></a>
                 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30"/></a>
             </td>
         </tr>
         <tr>
-            <td>Android Application</td>
-            <td>
+            <td align="left">Android Application</td>
+            <td align="right">
                 <a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" height="30"/></a>
                 <a href="https://developer.android.com/studio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" height="30"/></a>
             </td>
         </tr>
         <tr>
-            <td>Hybrid Application</td>
-            <td>
+            <td align="left">Hybrid Application</td>
+            <td align="right">
                 <a href="https://angular.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" height="30"/></a>
                 <a href="https://ionicframework.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" height="30"/></a>
             </td>
         </tr>
         <tr>
-            <td>Programming Language</td>
-            <td>
+            <td align="left">Programming Language</td>
+            <td align="right">
                 <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30"/></a>
                 <a href="https://java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30"/></a>
             </td>
         </tr>
         <tr>
-            <td>Tools</td>
-            <td>
+            <td align="left">Tools</td>
+            <td align="right">
                 <a href="https://figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30"/></a>
                 <a href="https://visualstudio.microsoft.com/downloads/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30"/></a>
                 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="30"/></a>
                 <a href="https://canva.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30"/></a>
             </td>
         </tr>
-            
-        </tbody>
     </table>
 </div>
 
