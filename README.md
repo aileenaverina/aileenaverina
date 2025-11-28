@@ -6,10 +6,13 @@
 <div align="left" style="height: auto;">
     <h1>📝Skills</h1>
     <table width="100%">
+        <thead>
         <tr>
             <th align="left">Description</th>
             <th align="right">List - Level</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td>Web Development</td>
             <td >
@@ -70,6 +73,8 @@
                 <a href="https://canva.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30"/></a>
             </td>
         </tr>
+            
+        </tbody>
     </table>
 </div>
 
