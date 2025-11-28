@@ -7,8 +7,8 @@
     <h1>📝Skills</h1>
     <table  align="center" style="margin-inline-start: 0; margin-inline-end: 0; table-layout:auto; margin: 0; width: 700px;">
         <tr>
-            <th align="center">Description</th>
-            <th align="center">List - Level</th>
+            <th align="left">Description</th>
+            <th align="right">List - Level</th>
         </tr>
         <tr>
             <td>Web Development</td>
