@@ -5,7 +5,7 @@
 
 <div align="left">
     <h1>📝Skills</h1>
-    <table  align="center" style="width:100%; table-layout:auto; margin:0;">
+    <table  align="center" style="width:100%; margin-inline-start: 0; margin-inline-end: 0; table-layout:auto; margin:0;">
         <tr>
             <th align="center">Description</th>
             <th align="center">List - Level</th>
