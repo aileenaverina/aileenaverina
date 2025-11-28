@@ -3,9 +3,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
     <h1>📝Skills</h1>
-    <table>
+    <table width="100%" align="center">
         <tr>
             <th align="center">Description</th>
             <th align="center">List - Level</th>
@@ -89,5 +89,5 @@
 <div align="left">
     <h2>🏁Github Stat</h2>
     <a href="https://github.com/aileenaverina"><img src="https://github-readme-stats.vercel.app/api?username=aileenaverina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/></a>
-    <a href="https://github.com/aileenaverina"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aileenaverina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  /></a>
+    <a href="https://github.com/aileenaverina"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aileenaverina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  /></a>
 </div>
